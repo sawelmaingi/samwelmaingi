@@ -1,0 +1,120 @@
+.index{
+	background-image: url(resource/images/back.jpe);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.nikita{
+	color: white;
+	font-family: Papyrus, fantasy;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+.navba{
+	background-color: /*#fff2e5*/#ffcccc;
+}
+
+.ju{
+	background-color: grey;
+	color: white;
+}
+
+.hel{
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+	font-size: 50px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	color: white;
+}
+
+.wa{
+
+}
+
+footer{
+	color: white;
+}
+
+.ipsum{
+	background-image: url(resource/images/background.jpe);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.contact{
+	background-color: #fff2e5;
+}
+
+.email{
+	color: purple;
+}
+
+.gmail{
+	
+}
+
+.about{
+	background-color: #fff2e5;
+}
+
+.work{
+	background-color: #fff2e5;
+}
+
+.helo{
+	color: white;
+}
+div.background {
+    background: url(resource/images/flag.jpeg) no-repeat;
+    border: 2px solid black;
+    background-size: 1200px;
+}
+
+div.transbox {
+    margin: 30px;
+    background-color: #2f2f2f;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);	
+}
+
+div.transbox h1{
+    margin: 5%;
+    font-weight: bold;
+    color: white;
+}
+
+div.transbox h2{
+    margin: 5%;
+    font-weight: bold;
+    color: white;
+}
+div.transbox h3{
+    margin: 5%;
+    font-weight: bold;
+    color: white;
+}
+
+.ww{
+	color: white;
+}
+
+.ss{
+	size: 800px;
+}
+
+li{
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
